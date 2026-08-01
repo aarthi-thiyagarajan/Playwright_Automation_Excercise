@@ -1,0 +1,29 @@
+{
+  "registration": {
+    "name": "Jane Automation",
+    "email": "jane.automation@mailtest.com",
+    "password": "SecurePass@123",
+    "title": "Mrs",
+    "firstName": "Jane",
+    "lastName": "Automation",
+    "company": "QA Corp",
+    "address1": "123 Test Street",
+    "address2": "Suite 456",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "zipcode": "90001",
+    "mobileNumber": "5551234567"
+  },
+  "payment": {
+    "nameOnCard": "Jane Automation",
+    "cardNumber": "4111111111111111",
+    "cvc": "123",
+    "expiryMonth": "12",
+    "expiryYear": "2027"
+  },
+  "product": {
+    "index": 1,
+    "quantity": 1
+  }
+}
